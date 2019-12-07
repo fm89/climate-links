@@ -1,10 +1,44 @@
 # List of online climate related resources
 
+## Worldwide resources
+
+### Tools
+
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html), a climate change solutions simulator
+
+### Visualizations
+
+* [CO2.earth](https://www.co2.earth/), live CO2 concentration
+* [CO2 levels](https://www.co2levels.org/), historical charts of CO2 concentrations
+* [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/CO2-emissions), map of CO2 emissions by year and country
+* [Vital Signs of the Planet](https://climate.nasa.gov/vital-signs/global-temperature/), graph of the temperature anomaly over time by NASA
+* [Carbon Clock](https://www.mcc-berlin.net/en/research/co2-budget.html), remaining years at current emission levels to mitigate climate change
+* [Climate Spirals](https://openclimatedata.net/climate-spirals/from-emissions-to-global-warming-line-chart/), circular graphs of emissions, CO2 concentrations, temperature rise
+
+### Reports
+
 * [Global Climate Risk Index](https://germanwatch.org/en/17307), a yearly report by Germanwatch, which measures the impacts of extreme weather events across the world
 * [Emissions Gap Report](https://www.unenvironment.org/resources/emissions-gap-report-2019), a yearly report computing the gap between greenhouse gases emissions and our goals
-* [UK CRC Program description](https://data.gov.uk/dataset/4b709a17-6e98-4021-a207-137ac931bfc3/information-for-each-carbon-reduction-commitment-crc-participant), informations on UK's Carbon Reduction Commitment protocol
+* [Production Gap](http://productiongap.org/2019report/), on the discrepancy between the quantities of fossile fuels production and emission targets
+* [IPCC 1.5, Chapter 2](https://www.ipcc.ch/sr15/chapter/chapter-2/), on the remaining carbon budget (Table 2.2)
+* [IPCC 1.5, Chapter 3](https://www.ipcc.ch/sr15/chapter/chapter-3/), on the impacts of climate change
+* [Climate Action Tracker](https://climateactiontracker.org/countries/), compares countries pledges, current regulations and targets
+
+### International texts
+
+* [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)
+* [Kyoto Protocol](https://unfccc.int/kyoto_protocol)
 
 ## France
 
 * [Open Ressources](https://open-ressources.fr/), a group of citizens working on the impacts of economic activities
+
+### Reglementation
+
+* [Grenelle II law](https://www.senat.fr/dossier-legislatif/pjl08-155.html), the law creating the carbon reporting obligation
+* [Environmental Code, art L229-25](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000031694974&cidTexte=LEGITEXT000006074220), the code article describing the carbon reporting obligation
+* [ADEME's BEGES platform](http://www.bilans-ges.ademe.fr/), the official site where organisations must submit their carbon reports
+
+## United Kingdom
+
+* [UK CRC Program description](https://data.gov.uk/dataset/4b709a17-6e98-4021-a207-137ac931bfc3/information-for-each-carbon-reduction-commitment-crc-participant), informations on UK's Carbon Reduction Commitment protocol
