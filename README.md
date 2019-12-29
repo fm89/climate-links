@@ -39,6 +39,10 @@
 * [Environmental Code, art L229-25](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000031694974&cidTexte=LEGITEXT000006074220), the code article describing the carbon reporting obligation
 * [ADEME's BEGES platform](http://www.bilans-ges.ademe.fr/), the official site where organisations must submit their carbon reports
 
+### Reports
+
+* [CAC 40 Reporting Climat](https://eco-act.com/fr/ressource/rapport-sur-le-reporting-climat-2019/), a report by the consulting company Eco-Act on climate reporting by large french companies
+
 ## United Kingdom
 
 * [UK CRC Program description](https://data.gov.uk/dataset/4b709a17-6e98-4021-a207-137ac931bfc3/information-for-each-carbon-reduction-commitment-crc-participant), informations on UK's Carbon Reduction Commitment protocol
