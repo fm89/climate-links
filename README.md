@@ -31,7 +31,7 @@
 
 ### Associations, lobbies
 
-* [https://www.cdp.net/](Carbon Disclosure Project)
+* [Carbon Disclosure Project](https://www.cdp.net/), an organisation which supports companies and cities to disclose the environmental impact of major corporations
 
 ## France
 
