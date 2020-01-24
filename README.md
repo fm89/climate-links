@@ -29,6 +29,10 @@
 * [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)
 * [Kyoto Protocol](https://unfccc.int/kyoto_protocol)
 
+### Associations, lobbies
+
+* [https://www.cdp.net/](Carbon Disclosure Project)
+
 ## France
 
 * [Open Ressources](https://open-ressources.fr/), a group of citizens working on the impacts of economic activities
