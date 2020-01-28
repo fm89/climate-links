@@ -46,6 +46,8 @@
 ### Reports
 
 * [CAC 40 Reporting Climat](https://eco-act.com/fr/ressource/rapport-sur-le-reporting-climat-2019/), a report by the consulting company Eco-Act on climate reporting by large french companies
+* [Quelques vérités sur le nucléaire](https://www.lepoint.fr/invites-du-point/kervasdoue-quelques-verites-sur-le-nucleaire-14-01-2020-2357682_420.php) by [Jean de Kervasdoué](https://fr.wikipedia.org/wiki/Jean_de_Kervasdou%C3%A9)
+* [La montée en puissance des énergies renouvelables électriques](https://alaingrandjean.fr/wp-content/uploads/2020/01/developpement-enr-electrique.pdf) by Alain Grandjean, Philippe Quirion and Behrang Shirizadeh
 
 ## United Kingdom
 
