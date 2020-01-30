@@ -6,6 +6,10 @@
 
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html), a climate change solutions simulator
 
+### Data sources
+
+* [The Shift Data Portal](http://www.tsp-data-portal.org/), an informative platform on climate and energy data, managed by The Shift Project
+
 ### Visualizations
 
 * [CO2.earth](https://www.co2.earth/), live CO2 concentration
