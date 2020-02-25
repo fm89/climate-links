@@ -2,6 +2,10 @@
 
 ## Worldwide resources
 
+### Science
+
+* [Skeptical science](https://skepticalscience.com/argument.php), climate myths debunking
+
 ### Tools
 
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html), a climate change solutions simulator
