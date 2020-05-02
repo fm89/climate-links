@@ -5,10 +5,12 @@
 ### Science
 
 * [Skeptical science](https://skepticalscience.com/argument.php), climate myths debunking
+* [What We Know](https://whatweknow.aaas.org/), summary by the American Association for the Advancement of Science
 
 ### Tools
 
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html), a climate change solutions simulator
+* [Click Green](http://www.clickclean.org/), a comparison by Greenpeace of web services footprints
 
 ### Data sources
 
