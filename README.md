@@ -10,6 +10,7 @@
 ### Tools
 
 * [En-ROADS](https://en-roads.climateinteractive.org/scenario.html), a climate change solutions simulator
+* [Mission Climat](http://mission-climat.io/simulator), a simulator for France emissions
 * [Click Green](http://www.clickclean.org/), a comparison by Greenpeace of web services footprints
 
 ### Data sources
