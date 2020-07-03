@@ -16,6 +16,7 @@
 ### Data sources
 
 * [The Shift Data Portal](http://www.tsp-data-portal.org/), an informative platform on climate and energy data, managed by The Shift Project
+* [Climatescape](https://climatescape.org/), discover the organizations solving climate change
 
 ### Visualizations
 
